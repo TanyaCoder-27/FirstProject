@@ -1,5 +1,11 @@
+<!DOCTYPE html>
 <html>
-<head><title>Practise</title></head>
-<body><h1>First Project </h1></body>
+<head>
+<title>Practise</title>
+</head>
+<body>
+<h1>First Project </h1>
+<p>meow meow meow </p>
+</body>
 
 </html>
